@@ -5,7 +5,7 @@
     <Name>Unfinished Business</Name>
     <Description>
       [H4]Unfinished Business[h4]
-The PC is working on a long-tem project such as a complex computer program or a light freighter refit. It may be personal or commissioned work. While long breaks may be acceptable, the Obligation cannot be totally fulfilled until the unfinished business is complete and it weighs heavily on the PC's mind whenever the character chooses to postpone working on it for any reason.
+The PC is working on a long-term project such as a complex computer program or a light freighter refit. It may be personal or commissioned work. While long breaks may be acceptable, the Obligation cannot be totally fulfilled until the unfinished business is complete and it weighs heavily on the PC's mind whenever the character chooses to postpone working on it for any reason.
     </Description>
     <Source Page="18">Special Modifications</Source>
     <Custom>DescOnly</Custom>
@@ -15,7 +15,7 @@ The PC is working on a long-tem project such as a complex computer program or a 
     <Name>Contract</Name>
     <Description>
       [H4]Contract[h4]
-The PC has a pressing contract to fulfill, whether it is legally binding or an informal deal. The contract may be for providing, installing or repairing technical items, or on call services. Fulfilling terms of the contract reduces the character's obligation, while putting them off or incurring expenses for the sake of fulfilling the contract might increase it.</Description>
+The PC has a pressing contract to fulfill, whether it is legally binding or an informal deal. The contract may be for providing, installing or repairing technical items, or on-call services. Fulfilling the terms of the contract reduces the character's obligation while putting them off or incurring expenses for the sake of fulfilling the contract might increase it.</Description>
     <Source Page="18">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -33,7 +33,7 @@ A botched modification, installation, or repair job has publicly damaged the cha
     <Name>Crew</Name>
     <Description>
       [H4]Crew[h4]
-The PC has an Obligation to keep a work crew or ship's complement safe, healthy and in work. Whether or not the PC usually travels with the work crew, this character serves as a mediator between the crew and outside individuals. The PC might owe the debt due from a time the crew saved the PC's career or even life through hard work and sacrifice.</Description>
+The PC has an Obligation to keep a work crew or ship's complement safe, healthy and at work. Whether or not the PC usually travels with the work crew, this character serves as a mediator between the crew and outside individuals. The PC might owe the debt due from a time the crew saved the PC's career or even life through hard work and sacrifice.</Description>
     <Source Page="18">Special Modifications</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -42,7 +42,7 @@ The PC has an Obligation to keep a work crew or ship's complement safe, healthy 
     <Name>Fame</Name>
     <Description>
       [H4]Fame[h4]
-The character's reputation casts a long shadow. Perhaps the PC took a famous and difficult abounty, or owns a recognizable and deadly ship, or has beaten another well-known hunter to the punch in the past. Whatever the case, it is hard for the character to move unnoticed throughout the galaxy. This makes covert operations more difficult, but also means that informants are more likely to spill what they know when he PC arrives.</Description>
+The character's reputation casts a long shadow. Perhaps the PC took a famous and difficult bounty, owns a recognizable and deadly ship, or has beaten another well-known hunter to the punch in the past. Whatever the case, it is hard for the character to move unnoticed throughout the galaxy. This makes covert operations more difficult, but also means that informants are more likely to spill what they know when the PC arrives.</Description>
     <Source Page="19">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -60,7 +60,7 @@ Either the character very publicly and flagrantly broke one of the rules laid do
     <Name>Keeper of the Faith</Name>
     <Description>
       [H4]Keeper of the Faith[h4]
-Much to many other freelancers' amusement, this character has sworn to faithfully uphold both the spirit and the letter of some code of honor. The PC believes very strongly in these edicts and adheres to them with an almost religious fervor. The character never knowingly breaks any of the rules laid down in the code, and may turn on colleagues who do so.</Description>
+Much to many other freelancers' amusement, this character has sworn to faithfully uphold both the spirit and the letter of some code of honor. The PC believes very strongly in these edicts and adheres to them with an almost religious fervor. The character never knowingly breaks any of the rules laid down in the code and may turn on colleagues who do so.</Description>
     <Source Page="19">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -69,7 +69,7 @@ Much to many other freelancers' amusement, this character has sworn to faithfull
     <Name>Thrill Seeker</Name>
     <Description>
       [H4]Thrill Seeker[h4]
-Some people are addicted to alcohol or chems, others to gambling or other seedy vices. This character, however, is a confirmed adrenaline junkie, and chooses bounties not by their challenge or price, but by how exciting or dangerous they are. Avoiding the Obligation—perhaps by being a responsible business operator and considering every job's cost benefit analysis—results in an almost immediate case of excitement withdrawal. when inactive, the character is edgy, moody, easily distracted, and generally unpleasant to be around.
+Some people are addicted to alcohol or chems, others to gambling or other seedy vices. This character, however, is a confirmed adrenaline junkie and chooses bounties not by their challenge or price, but by how exciting or dangerous they are. Avoiding the Obligation—perhaps by being a responsible business operator and considering every job's cost-benefit analysis—results in an almost immediate case of excitement withdrawal. when inactive, the character is edgy, moody, easily distracted, and generally unpleasant to be around.
     </Description>
     <Source Page="19">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
@@ -79,7 +79,7 @@ Some people are addicted to alcohol or chems, others to gambling or other seedy 
     <Name>Vigilante</Name>
     <Description>
       [H4]Vigilante[h4]
-The character has seen the wheels of justice grind up the innocent and let the guilty walk free. The character has sworn to take the law—or a version of it, at any rate—and bring  justice to those who deserve it. When taking on contracts, this character tends to pursue the most hardened criminals.
+The character has seen the wheels of justice grind up the innocent and let the guilty walk free. The character has sworn to take the law—or a version of it, at any rate—and bring justice to those who deserve it. When taking on contracts, this character tends to pursue the most hardened criminals.
     </Description>
     <Source Page="19">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
@@ -113,7 +113,7 @@ The character has a strong addiction he must keep feeding. Whether it's a physic
     <Name>Adrenaline Rush</Name>
     <Description>
       [H4]Adrenaline Rush[h4]
-The character is addicted to the rush of adrenaline he gets from battle. It was this character flaw that cost hi his position at the upper levels of society. Now he must feed the addiction or the results turn ugly indeed. The character cannot back down from a fight of any kind, and often goes in search of conflict when things get too tame for his tastes. Should the character go an entire session without combat of some kind, the GM may add a penalty of [SE] to any skill checks in the next session (or until the character gets a chance to fight).
+The character is addicted to the rush of adrenaline he gets from battle. It was this character flaw that cost him his position at the upper levels of society. Now he must feed the addiction or the results turn ugly indeed. The character cannot back down from a fight of any kind and often goes in search of conflict when things get too tame for his tastes. Should the character go an entire session without combat of some kind, the GM may add a penalty of [SE] to any skill checks in the next session (or until the character gets a chance to fight).
     </Description>
     <Source Page="17">Dangerous Covenants</Source>
     <Custom>DescOnly</Custom>
@@ -144,7 +144,7 @@ The character is addicted to the rush of adrenaline he gets from battle. It was 
     <Description>
       [H4]Base of Operation[h4]
   [B]Group Obligation:[b] When the base of operations Obligation triggers, the narrative events should relate to the base of operations. This could be
-as simple as unexpected bills or an afternoon of repairing moisture vaporators on the South Ridge. Alternatively, it could involve a rampaging gundark breaking into the pastureland or a rival mining baron deciding to execute a hostile takeover of the PCs' land. The GM is free to make the narrative effects of the Obligation triggering minimally invasive, if it would distract from an important ongoing plotline, or an unexpected and major issue for the PCs to deal with immediately and personally.
+as simple as unexpected bills or an afternoon of repairing moisture vaporators on the South Ridge. Alternatively, it could involve a rampaging gundark breaking into the pastureland or a rival mining baron deciding to execute a hostile takeover of the PCs' land. The GM is free to make the narrative effects of the Obligation triggering minimally invasive if it would distract from an important ongoing plotline or an unexpected and major issue for the PCs to deal with immediately and personally.
     </Description>
     <Source Page="82">Far Horizons</Source>
     <Custom>DescOnly</Custom>
@@ -178,7 +178,7 @@ Someone has discovered one of the PC's dirty secrets and is using that knowledge
     <Name>Bounty</Name>
     <Description>
       [H4]Bounty[h4]
-or some reason, the character has a price on his head. This may be in the form of a legal warrant or contract by criminals, collection agencies, or even someone who felt his honor violated in some way. What he did to earn this mark is up to his background, and the severity of his actions can be based on the size of his Obligation.
+For some reason, the character has a price on his head. This may be in the form of a legal warrant or contract by criminals, collection agencies, or even someone who felt his honor violated in some way. What he did to earn this mark is up to his background, and the severity of his actions can be based on the size of his Obligation.
 
     </Description>
     <Sources>
@@ -203,7 +203,7 @@ In the pursuit of a past contract, the character was careless. He accidentally d
     <Name>Contracted</Name>
     <Description>
       [H4]Contracted[h4]
-     The Colonist has entered into a long-term contract with a corporation or government related to his work at a colony. In many cases, these contracts are how colonists pay their passage to the new world - a form of indentured servitude. Colonists might be contracted to provide bookkeeping, labor, or any other number of services. Failure to live up to a contract can result in financial penalties, imprisonment, deportation, or earning a bounty.</Description>
+     The Colonist has entered into a long-term contract with a corporation or government related to his work at a colony. In many cases, these contracts are how colonists pay for their passage to the new world - a form of indentured servitude. Colonists might be contracted to provide bookkeeping, labor, or any other number of services. Failure to live up to a contract can result in financial penalties, imprisonment, deportation, or earning a bounty.</Description>
     <Source Page="17">Far Horizons</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -258,7 +258,7 @@ The PC has a deep sense of duty that he feels compelled to fulfill, such as mili
     <Name>Exiled</Name>
     <Description>
       [H4]Exiled[h4]
-      Going up against politically connected members of the Galactic Empire is a good way to become exiled from the most civilized of the Core Worlds. The Colonist is not allowed to set foot in the Core, or any Imperial-controlled worlds, but is desperate to remove the stain on his reputation. While possible, the smallest misstep can be disastrous, setting progress back months or even years. There is also the trouble of bureaucracy and last minute deadlines that can draw the character away.</Description>
+      Going up against politically connected members of the Galactic Empire is a good way to become exiled from the most civilized of the Core Worlds. The Colonist is not allowed to set foot in the Core, or any Imperial-controlled worlds, but is desperate to remove the stain on his reputation. While possible, the smallest misstep can be disastrous, setting progress back months or even years. There is also the trouble of bureaucracy and last-minute deadlines that can draw the character away.</Description>
     <Source Page="17">Far Horizons</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -267,7 +267,7 @@ The PC has a deep sense of duty that he feels compelled to fulfill, such as mili
     <Name>Family</Name>
     <Description>
       [H4]Family[h4]
-The character has deep ties with his family that require a great deal of time and attention. This could include providing care for or assistance to siblings or parents, the management of an inheritance, trust, or family business, or simply mediating between squabbling family members.
+The character has deep ties with his family that require a great deal of time and attention. This could include providing care for or assistance to siblings or parents, the management of inheritance, trust, or family business, or simply mediating between squabbling family members.
     </Description>
     <Sources>
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
@@ -295,7 +295,7 @@ The character has deep ties with his family that require a great deal of time an
     <Name>Fervor</Name>
     <Description>
       [H4]Fervor[h4]
-The character is possessed of a powerful drive to act based on religious or spiritual beliefs. As an Obligation, Fervor means that he cannot resist acting in accordance with his beliefs and teachings. He may even have those who support him in some way (thus explaining the resources he potentially attains due to the Obligation), further exhorting him to follow "the Way" they all revere. Consider the Archaeologist who seeks temples dedicated to a lost god or the Big-Game Hunter who truly believes that it his divine destiny to eradicate "monsters" throughout the galaxy.
+The character is possessed of a powerful drive to act based on religious or spiritual beliefs. As an Obligation, Fervor means that he cannot resist acting in accordance with his beliefs and teachings. He may even have those who support him in some way (thus explaining the resources he potentially attains due to the Obligation), further exhorting him to follow "the Way" they all revere. Consider the Archaeologist who seeks temples dedicated to a lost god or the Big-Game Hunter who truly believes that it is his divine destiny to eradicate "monsters" throughout the galaxy.
 </Description>
     <Source Page="19">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -305,7 +305,7 @@ The character is possessed of a powerful drive to act based on religious or spir
     <Name>Frontier Justice</Name>
     <Description>
       [H4]Frontier Justice[h4]
-     Life on the frontier is harsh, cruel, and unfair. Bandits and outlaws can get away with murder and more if the local sheriff is too weak to stop them. Some people are able to let that go and move past it. When the dead are loved ones, however, some can't just move on. The need to get even is so strong it dominates the Colonist's thoughts and dreams, causing him to obsess about the moment of exacted vengeance. The Colonist gladly betrays, abandons, or hurts anyone if it brings him closer to settling the score.
+     Life on the frontier is harsh, cruel, and unfair. Bandits and outlaws can get away with murder and more if the local sheriff is too weak to stop them. Some people are able to let that go and move past it. When the dead are loved ones, however, some can't just move on. The need to get even is so strong it dominates the Colonist's thoughts and dreams, causing them to obsess about the moment of exacted vengeance. The Colonist gladly betrays, abandons, or hurts anyone if it brings him closer to settling the score.
 </Description>
     <Source Page="17">Far Horizons</Source>
     <Custom>DescOnly</Custom>
@@ -335,7 +335,7 @@ The Smuggler just can't help it, he has to take the most dangerous jobs and play
     <Name>Oath</Name>
     <Description>
       [H4]Oath[h4]
-      The character has sword some sort of oath that dictates his thoughts and actions, shaping his moral view of the world. This could be an oath to a deity, a way of living (such as the Jedi Code), or a willingness to sacrifice for the betterment of some group or cause. Whatever the case, the Oath should be both serious and make life difficult in some ways for the character. It is a personal and deep undertaking, possibly without a truly obtainable end goal in sight. Characters who do not live up to this oath face an internal and moral struggle.
+      The character has sworn some sort of oath that dictates his thoughts and actions, shaping his moral view of the world. This could be an oath to a deity, a way of living (such as the Jedi Code), or a willingness to sacrifice for the betterment of some group or cause. Whatever the case, the Oath should be both serious and make life difficult in some ways for the character. It is a personal and deep undertaking, possibly without a truly obtainable end goal in sight. Characters who do not live up to this oath face an internal and moral struggle.
 </Description>
     <Source Page="39">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -345,7 +345,7 @@ The Smuggler just can't help it, he has to take the most dangerous jobs and play
     <Name>Obsession</Name>
     <Description>
       [H4]Obsession[h4]
-The PC has some unhealthy obsession that tends to interfere in his life, whether with a celebrity, a region, a political movement, a cultural icon, or some other facet of society or life. He must pursue this, possibly to the detriment of his health, finances, or well-being. A character with this Obligation tends to get along well with others that share his interest, but is looked at with pity, amusement, or even a bit of fear from others who don't understand.
+The PC has some unhealthy obsession that tends to interfere in his life, whether with a celebrity, a region, a political movement, a cultural icon, or some other facet of society or life. He must pursue this, possibly to the detriment of his health, finances, or well-being. A character with this Obligation tends to get along well with others that share his interest but is looked at with pity, amusement, or even a bit of fear by others who don't understand.
 </Description>
     <Source Page="39">Edge of the Empire Core Rulebook</Source>
     <Custom>DescOnly</Custom>
@@ -365,7 +365,7 @@ This Colonist abhors violence, either out of a sense of morality or cowardice. W
     <Name>Philanderer</Name>
     <Description>
       [H4]Philanderer[h4]
-Colonies tend to be small places, and if a being gets around, word about it has a tendency to follow close behind. This Colonist has no shortage of scorned lovers still furious over his or her never committing. Former flames have a habit of showing up at the worst moment, or causing delays when the chrono is ticking. The worst is when two or more flings team up to make life miserable for a serial seducer, or when spouses find out and decide the Colonist is deserving of punishment. Nothing is off limits, as all is fair in love and war.</Description>
+Colonies tend to be small places, and if a being gets around, a word about it has a tendency to follow close behind. This Colonist has no shortage of scorned lovers still furious over his or her never committing. Former flames have a habit of showing up at the worst moment or causing delays when the chrono is ticking. The worst is when two or more flings team up to make life miserable for a serial seducer, or when spouses find out and decide the Colonist is deserving of punishment. Nothing is off limits, as all is fair in love and war.</Description>
     <Source Page="17">Far Horizons</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -374,7 +374,7 @@ Colonies tend to be small places, and if a being gets around, word about it has 
     <Name>Responsibility</Name>
     <Description>
       [H4]Responsibility[h4]
-A character with the Responsibility Obligation feels a strong sense of accountability or relationship to a person, place, or thing (a responsibility to kin falls under Family Obligation described above). This could include a strong connection to a mentor, a strong desire to care for orphans in a given location, or taking on the needs of an under-represented minority.</Description>
+A character with the Responsibility Obligation feels a strong sense of accountability or relationship to a person, place, or thing (a responsibility to kin falls under the Family Obligation described above). This could include a strong connection to a mentor, a strong desire to care for orphans in a given location, or taking on the needs of an under-represented minority.</Description>
     <Sources>
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
       <Source Page="17">Far Horizons</Source>
@@ -395,7 +395,7 @@ Although the Smuggler might act like he's his own boss, he is actually the prope
     <Name>Sponsorship</Name>
     <Description>
       [H4]Sponsorship[h4]
-  This represents a legitimate faction that has placed a great deal of resources in the hands of a character (or a team) for some established purposed. For many Explorers, it is the common Obligation they will incur. It could be a mercantile consortium that sponsors a Trader in order to open up trade with a new planet or civilization or an Imperial agency sponsoring a Scout to investigate a newly discovered star and its planets. Archaeologists are frequently sponsored by academies or other scholastically minded organizations for their expeditions, and Big-Game Hunters may well be sponsored by a conservation group to thin a particular population of beasts... or sponsored by less savory firms to completely eradicate a particular life-form.
+  This represents a legitimate faction that has placed a great deal of resources in the hands of a character (or a team) for some established purpose. For many Explorers, it is the common Obligation they will incur. It could be a mercantile consortium that sponsors a Trader in order to open up trade with a new planet or civilization or an Imperial agency sponsoring a Scout to investigate a newly discovered star and its planets. Archaeologists are frequently sponsored by academies or other scholastically minded organizations for their expeditions, and Big-Game Hunters may well be sponsored by a conservation group to thin a particular population of beasts... or sponsored by less savory firms to completely eradicate a particular life form.
 </Description>
     <Source Page="19">Enter the Unknown</Source>
     <Custom>DescOnly</Custom>
@@ -426,7 +426,7 @@ The Smuggler is under contract to obtain rare goods, transport volatile cargo, o
     <Name>Witness Protection</Name>
     <Description>
       [H4]Witness Protection[h4]
-Some Colonists never would have chosen life on a distant backwater, but authorities have deemed it necessary to hide them in the witness protection program. The Colonist is being hunted by the Hutt Cartels, Black Sun, the Tenloss Syndicate, or some other galactic-scale criminal organization as a material witness. The Colonist was given a new identity and sent to an obscure planet to safely await trial, but the syndicate won't stop looking for him.
+Some Colonists never would have chosen life in a distant backwater, but authorities have deemed it necessary to hide them in the witness protection program. The Colonist is being hunted by the Hutt Cartels, Black Sun, the Tenloss Syndicate, or some other galactic-scale criminal organization as a material witness. The Colonist was given a new identity and sent to an obscure planet to safely await trial, but the syndicate won't stop looking for him.
 </Description>
     <Source Page="17">Far Horizons</Source>
     <Custom>DescOnly</Custom>
